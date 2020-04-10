@@ -1,0 +1,3 @@
+rootProject.name='CleanArchitecture PoC'
+include ':app'
+include ':cleanarchitecture'
